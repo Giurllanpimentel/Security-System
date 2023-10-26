@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.nav{
+    margin-top: 44px;
+    margin-left: 76px;
+}
+
+a{
+    margin: 23px;
+    color: #989D9C;
+    font-size: 22px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.button-01{
+    width: 150px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 30px;
+background: #417CF2;
+border: none;
+color: white;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+cursor: pointer;
+}
+
+img{
+    width: 568px;
+    height: 500px;
+    display: inline-block;
+}
+
+div{
+    display: inline-block;
+    margin-left: 68px;
+    position: absolute;
+    margin-top: 101px;
+    
+}
+
+h1{
+color: #515151;
+font-size: 55px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+margin-bottom: 25px;
+}
+
+p{
+color: #848484;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 515px;
+margin-bottom: 45px;
+
+
+}
+
+button:hover{
+    opacity: .8;
+}
+
+a:hover{
+    opacity: .8;
+}
+
+.expor{
+    width: 160px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: #417CF2;
+    border: none;
+    color: white;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    cursor: pointer;
+    
+}
